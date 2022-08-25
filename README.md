@@ -1,10 +1,8 @@
-![PEGASUS X IRLGF]( )
-
 # PEGASUS X IRLGF
 
-Enhanced Ultra Audio + 90 Fps Unlocker
+INSTA REEL'S GREEN LINE'S ISSUE FIXED
 
-# What Is PEGAXUNLOCKER ??
+# What Is PEGASUS X IRLGF ??
 
 ▌**PEGASUS X IRGLF** Is A Module Which Fixes Instagram Reel's Green Lines Issue
 
