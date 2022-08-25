@@ -49,7 +49,7 @@ ui_print " ▌PROCESSOR ▰ $(getprop ro.product.board) "
 sleep 0.5
 ui_print ""
 ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ "
-ui_print " ▌Activating ▰ Pegasus  ✗ Instagram Reel's Green Lines Fixer "
+ui_print " ▌Activating ▰ Pegasus ✗ Instagram Reel's Green Lines Fixer "
 ui_print "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ "
 ui_print " "
 ui_print "▰ Join Our Channel's & Group To Support Us"
